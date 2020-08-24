@@ -1,1 +1,3 @@
-# javascript_complete_guide in progress
+# javascript_complete_guide
+
+javascript basics to advanced -- in progress
